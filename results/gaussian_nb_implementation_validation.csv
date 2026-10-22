@@ -1,0 +1,3 @@
+Dataset,Differing predictions,Maximum absolute positive-probability difference,Scratch epsilon,Scikit-learn epsilon
+Breast Cancer Wisconsin (Diagnostic),0,7.771561172376096e-16,0.00033838174019611156,0.00033838174019611156
+Cervical Cancer Risk Factors (Biopsy outcome),0,1.7763568394002505e-15,7.348189250242031e-08,7.348189250242031e-08

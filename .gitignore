@@ -1,0 +1,22 @@
+# macOS / editor files
+.DS_Store
+.AppleDouble
+.vscode/
+.idea/
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
